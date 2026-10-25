@@ -37,3 +37,7 @@ button {
   padding: 0;
   box-sizing: 0;
 }
+
+body {
+  font-family: var(--font-family);
+}
