@@ -100,7 +100,7 @@
 
 /* TELAS ULTRAWIDE */
 @media screen and (min-width: 1920px) {
-  .offers-cards .offers-cards {
+  .offers-cards {
     max-width: 1200px;
     margin: 0 auto;
   }
